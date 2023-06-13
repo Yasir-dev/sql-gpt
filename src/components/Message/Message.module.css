@@ -1,0 +1,12 @@
+.message {
+    width: 100%;
+    display: flex;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: rgb(242, 239, 239);
+    margin: 5px 0;
+}
+
+.icon {
+    padding: 0 7px;
+}

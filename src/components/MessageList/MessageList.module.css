@@ -1,0 +1,6 @@
+.messageList {
+    width: 96%;
+    margin: 2%;
+    height: 200px;
+    overflow-y: scroll;
+}
