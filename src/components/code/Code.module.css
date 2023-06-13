@@ -4,6 +4,7 @@
     height: 300px;
     border-radius: 8px;
     background-color: rgb(34, 34, 34);
+    overflow: hidden;
 }
 
 .codeOutput {
